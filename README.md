@@ -1,16 +1,16 @@
 # Table of Contents
 
-  * [LD.01 Ontwikkelmethoden](##Ontwikkelmethoden-LD-01)
-  * [LD.02 Analyse](##Analyse)
-  * [LD.03 Ontwerp](##Ontwerp)
-  * [LD.04 OO Technieken](##OO-Technieken)
-  * [LD.05 Design Patterns](##Design-Patterns)
-  * [LD.06 API en Communicatieprotocollen](##API-en-Communicatieprotocollen)
-  * [LD.07 Hardware](##Hardware)
-  * [LD.08 Versiebeheer](##Versiebeheer)
-  * [PO.01 Oordeelsvorming](##Oordeelsvorming)
-  * [PO.02 Communicatie](##Communicatie)
-  * [PO.03 Leervaardigheden](##Leervaardigheden)
+  * [LD.01 Ontwikkelmethoden](#Ontwikkelmethoden-LD-01)
+  * [LD.02 Analyse](#Analyse)
+  * [LD.03 Ontwerp](#Ontwerp)
+  * [LD.04 OO Technieken](#OO-Technieken)
+  * [LD.05 Design Patterns](#Design-Patterns)
+  * [LD.06 API en Communicatieprotocollen](#API-en-Communicatieprotocollen)
+  * [LD.07 Hardware](#Hardware)
+  * [LD.08 Versiebeheer](#Versiebeheer)
+  * [PO.01 Oordeelsvorming](#Oordeelsvorming)
+  * [PO.02 Communicatie](#Communicatie)
+  * [PO.03 Leervaardigheden](#Leervaardigheden)
 
 
 ## Ontwikkelmethoden LD.01
