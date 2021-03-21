@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leerdoelen/01_Ontwikkelmethoden/README.md.md",
+            "file": "Leerdoelen/07_Hardware/README.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leerdoelen/01_Ontwikkelmethoden/README.md.md",
+                "file": "Leerdoelen/07_Hardware/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Leerdoelen/01_Ontwikkelmethoden/README.md.md",
-    "Leerdoelen/01_Ontwikkelmethoden/Untitled.md",
-    "Leerdoelen/Untitled.md",
+    "Leerdoelen/07_Hardware/README.md",
     "README.md",
-    "img/test-img.jpg.md",
-    "img/Untitled.md"
+    "Leerdoelen/07_Hardware/VID_20210317_213542.mp4",
+    "img/README.md.md",
+    "Leerdoelen/Readme.md.md",
+    "Leerdoelen/07_Hardware/README.md.md",
+    "Leerdoelen/07_Hardware/Code/READM.md.md",
+    "Leerdoelen/07_Hardware/Code/Untitled.md",
+    "Leerdoelen/07_Hardware/Untitled.md",
+    "Leerdoelen/01_Ontwikkelmethoden/README.md"
   ]
 }
