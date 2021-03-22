@@ -30,5 +30,5 @@ Om een goed gevoel en een beter inzicht te krijgen wat er nu voor nodig is om ee
 ## Hoe
 Voor mijn proof of concept heb ik de onderstaande situatie nagebouwd.
 ![Default sketch](img/07_hardware/Beer.cool.board_bb.png)
-
+![Default sketch](./img/07_hardware/Beer.cool.board_bb.png)
 De eerste uitdaging was 
