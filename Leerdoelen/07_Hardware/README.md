@@ -23,3 +23,9 @@ Kort samengevat, het programmeren van een microcontroller, zodat deze een sensor
 
 
 ## Waarom
+Om een goed gevoel en een beter inzicht te krijgen wat er nu voor nodig is om een sensor uit te lezen en deze data beschikbaar te stellen in een lees- en handelbaar formaat. En deze data via bepaalde protocollen beschikbaar te stellen zodat deze als input gebruikt kan worden door andere processen/services.
+
+
+
+## Hoe
+![image test](./img/07_hardware/Beer.cool.board_bb.png "Test opzet")
