@@ -46,4 +46,4 @@ De student werkt doelmatig samen met medestudenten, docenten en professionals in
 ## Leervaardigheden
 De student betrekt zelfreflectie en ontvangen feedback op het eigen leerproces en functioneren in het ICT-vakgebied.
 
-![image test](./img/yaktocat.png "Test Img")
+![image test](yaktocat.png "Test Img")

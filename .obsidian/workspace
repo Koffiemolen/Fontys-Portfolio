@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e8cdbdeddbbf49b9",
+        "id": "615c6bdb1f5d63c3",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Leerdoelen/07_Hardware/README.md",
-            "mode": "source"
+            "file": "Leerdoelen/06_API_en_Communicatieprotocollen/README.md.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leerdoelen/07_Hardware/README.md",
+                "file": "Leerdoelen/06_API_en_Communicatieprotocollen/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "615c6bdb1f5d63c3",
   "lastOpenFiles": [
-    "Leerdoelen/07_Hardware/README.md",
-    "README.md",
-    "Leerdoelen/07_Hardware/VID_20210317_213542.mp4",
-    "img/README.md.md",
-    "Leerdoelen/Readme.md.md",
-    "Leerdoelen/07_Hardware/README.md.md",
-    "Leerdoelen/07_Hardware/Code/READM.md.md",
-    "Leerdoelen/07_Hardware/Code/Untitled.md",
-    "Leerdoelen/07_Hardware/Untitled.md",
-    "Leerdoelen/01_Ontwikkelmethoden/README.md"
+    "Leerdoelen/06_API_en_Communicatieprotocollen/README.md.md",
+    "Leerdoelen/05_Design_Patterns/README.md.md",
+    "Leerdoelen/04_OO_Technieken/README.md.md",
+    "Leerdoelen/03_Ontwerp/README.md.md",
+    "img/03_Ontwerp/C-4 Model Beer.Cool-level3.png",
+    "img/03_Ontwerp/C-4 Model Beer.Cool-level2.png",
+    "Leerdoelen/02_Analyse/README.md.md",
+    "Leerdoelen/01_Ontwikkelmethoden/README.md",
+    "[Leerdoelen/05_Design_Patterns/README.md].md",
+    "[[Leerdoelen/01_Ontwikkelmethoden/README]].md"
   ]
 }
