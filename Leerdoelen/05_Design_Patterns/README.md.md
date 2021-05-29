@@ -36,9 +36,9 @@ Door het implementeren van het command-pattern wordt het mogelijk dat de ontvang
 ---
 
 *** Subvraag***
-a. Hoe wordt encapsulatie bereikt?
-b. Hoe implementeer ik het command pattern
-c. Hoe complex wordt de code?
+a. [Hoe wordt encapsulatie bereikt?](obsidian://open?vault=Portfolio&file=Fontys-Portfolio%2FLeerdoelen%2F05_Design_Patterns%2FEncapsulatie.md)
+b. [Hoe implementeer ik het command pattern](obsidian://open?vault=Portfolio&file=Fontys-Portfolio%2FLeerdoelen%2F05_Design_Patterns%2FImplementatie.md)
+c. [Hoe complex wordt de code?](obsidian://open?vault=Portfolio&file=Fontys-Portfolio%2FLeerdoelen%2F05_Design_Patterns%2FComplexiteit.md)
 
 Dit zijn de deelvragen die uiteindelijk moeten helpen om de hoofdvraag te kunnen beantwoorden.
 
