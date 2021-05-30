@@ -85,6 +85,10 @@ Voor de methoden die bij elke strategie horen zie bron: [DOT Framework Methods](
 ![[biep.png]]  <span style="font-family:Comic sans; font-size:4em;">+</span>![[workshop.png]]<span style="font-family:Comic sans; font-size:4em;">+</span>![[veld.png]]
 ---
 
+3 voorbeelden van hoe een command-pattern geïmplementeerd kan worden.
+https://github.com/Koffiemolen/Pattern-Command
+
+---
 **Conclusie**
 
 Gebaseerd op het onderzoek, ontwerppatroon x is het geschiktste voor de applicatie, omdat…..
