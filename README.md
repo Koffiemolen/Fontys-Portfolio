@@ -47,3 +47,16 @@ De student werkt doelmatig samen met medestudenten, docenten en professionals in
 ## Leervaardigheden
 De student betrekt zelfreflectie en ontvangen feedback op het eigen leerproces en functioneren in het ICT-vakgebied.
 
+
+
+# Nawoord
+
+Voor het volgende semster wil ik het volgende meenemen:
+- OOP ontwikkeling
+- Het is ok dat iets niet af is
+
+## OOP ontwikkeling
+Na feedback en zelf-evaluatie wil ik mij verder ontwikkelen in OOP. Ik merk voor mijzelf dat ik dit nog niet goed beheers en merk dat het mij veel moeite kost om het te genereren. Ik ga dan ook in de vakantie hiermee aan de slag door onder andere een contactlijst te maken in Java en door cursussen te volgen van Uncle Bob.
+
+## Het is ok
+Bij de presentatie van design patterns is naar voren gekomen dat ik het design pattern nog niet helemaal begrijpte en wilde natuurlijk overkomen dat ik het wel begreep. Een leermoment voor mijzelf is dat ik om hulp mag vragen wanneer ik er niet uitkom. Ook dit punt wil ik meenemen naar het volgende semester.
