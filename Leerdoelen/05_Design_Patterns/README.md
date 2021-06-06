@@ -91,4 +91,4 @@ https://github.com/Koffiemolen/Pattern-Command
 ---
 **Conclusie**
 
-Gebaseerd op het onderzoek, ontwerppatroon x is het geschiktste voor de applicatie, omdat…..
+Gebaseerd op het onderzoek, ontwerppatroon Command is vrij complex om te implementeren en brengt een groot aantal kleine klassen met zich mee. Deze is uitermate geschikt voor het encapsuleren van de communicatie tussen objecten.

@@ -67,3 +67,8 @@ In dit ontwerp is de webapplicatie van Beer.Cool weergegeven in een level 2 diag
 **Recommended for most teams**: No, only create component diagrams if you feel they add value, and consider automating their creation for long-lived documentation.
 
 (**Bron: ** *[Level 2: Container diagram](https://c4model.com/#ContainerDiagram)*)
+
+![[C-4 Model Beer.Cool-level3.png]]
+Na een eerste feedback met de docent bleek deze niet helemaal juist te zijn.
+Na het bespreken in de groep en aanpassing door te voeren zijn we uitgekomen op de volgende versie:
+![[C4-model-lvl3-v2.png]]

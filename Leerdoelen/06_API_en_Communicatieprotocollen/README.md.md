@@ -141,3 +141,11 @@ https://www.techopedia.com/definition/18909/distributed-system
 https://www.youtube.com/watch?v=ajjOEltiZm4
 
 
+Voor het aantonen van een stateless communicatie heb ik een 3-tal API's gemaakt. Een eureka server, een show service en een get service.
+
+De get service haalt data op bij een ESP8266 module. Hieraan zit een MLX90614 sensor aangesloten. Deze is zo gepgrammeerd dat je een POST call kan doen /getTemperatures en je krijgt een object terug met de omgevings- en objecttemperatuur terug.
+
+De show service toont een invoerveld waarin de ID van de sensor ingegeven kan worden. Wanneer er op de knop geklikt wordt doet deze een API post call naar de get-temperature service die op zijn buurt de data ophaalt bij de sensor.
+Deze geeft het weer terug met ID aan de show service die het vervolgens de temperatuur op het scherm weergeeft.
+
+De code is te vinden [hier](https://github.com/Koffiemolen/SpringBoot-API-Sensors)
