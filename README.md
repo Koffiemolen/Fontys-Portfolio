@@ -1,16 +1,17 @@
 # Table of Contents
+De leerdoelen zijn verwerkt in het programma Obsidian en de uitwerkingen hiervan zijn te vinden onder de map Leerdoelen of wanneer men de onderstaande linken gebruikt wordt er naar het juiste hoofdstuk gesprongen.
 
-  * [LD.01 Ontwikkelmethoden](#Ontwikkelmethoden-LD-01)
-  * [LD.02 Analyse](#Analyse)
-  * [LD.03 Ontwerp](#Ontwerp)
-  * [LD.04 OO Technieken](#OO-Technieken)
-  * [LD.05 Design Patterns](#Design-Patterns)
-  * [LD.06 API en Communicatieprotocollen](#API-en-Communicatieprotocollen)
-  * [LD.07 Hardware](#Hardware)
-  * [LD.08 Versiebeheer](#Versiebeheer)
-  * [PO.01 Oordeelsvorming](#Oordeelsvorming)
-  * [PO.02 Communicatie](#Communicatie)
-  * [PO.03 Leervaardigheden](#Leervaardigheden)
+  * [LD.01 Ontwikkelmethoden](Fontys-Portfolio/Leerdoelen/01_Ontwikkelmethoden/README)
+  * [LD.02 Analyse](Fontys-Portfolio/Leerdoelen/02_Analyse/README.md)
+  * [LD.03 Ontwerp](Fontys-Portfolio/Leerdoelen/03_Ontwerp/README.md)
+  * [LD.04 OO Technieken](Fontys-Portfolio/Leerdoelen/04_OO_Technieken/README.md)
+  * [LD.05 Design Patterns](Fontys-Portfolio/Leerdoelen/05_Design_Patterns/README)
+  * [LD.06 API en Communicatieprotocollen](Fontys-Portfolio/Leerdoelen/06_API_en_Communicatieprotocollen/README.md)
+  * [LD.07 Hardware](Fontys-Portfolio/Leerdoelen/07_Hardware/README)
+  * [LD.08 Versiebeheer](Fontys-Portfolio/Leerdoelen/08_Versiebeheer/README.md)
+  * [PO.01 Oordeelsvorming](Fontys-Portfolio/Leerdoelen/PO_01_Oordeelsvorming/README)
+  * [PO.02 Communicatie](Fontys-Portfolio/Leerdoelen/PO_02_Communicatie/README)
+  * [PO.03 Leervaardigheden](Fontys-Portfolio/Leerdoelen/PO_03_Leervaardigheden/README.md)
 
 
 ## Ontwikkelmethoden LD.01
@@ -46,4 +47,3 @@ De student werkt doelmatig samen met medestudenten, docenten en professionals in
 ## Leervaardigheden
 De student betrekt zelfreflectie en ontvangen feedback op het eigen leerproces en functioneren in het ICT-vakgebied.
 
-![image test](yaktocat.png "Test Img")

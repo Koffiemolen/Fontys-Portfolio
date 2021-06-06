@@ -30,10 +30,10 @@ Voor een spel als dit kan het fijn zijn om een flow chart te maken. Dit maakt he
 ![[Sem2/FunctioneelOntwerp/v3/FlowChart.png]]
 
 Nu de concepten en de use-cases bekend zijn kan er een klassendiagram gemaakt worden en worden de onderliggende relaties in kaart gebracht.
-![[klassendiagram2.png]]
+![[Fontys-Portfolio/img/klassendiagram2.png]]
 
 Voor een lagenscheiding is het volgende diagram gemaakt.
-![[Lagenscheidingv2.png]]
+![[Fontys-Portfolio/img/Lagenscheidingv2.png]]
 
 # C4-model
 Voor het tweede semester heb ik een level 1 en level 2 diagram gemaakt volgens het C4-model. Na het volgen van de video [Uitleg C4 model](https://youtu.be/x2-rSnhpw0g) op [C4model.com](https://c4model.com/) heb ik een goed begrip gekregen van het C4-model.
